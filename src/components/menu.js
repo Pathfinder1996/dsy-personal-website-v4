@@ -266,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/my_resume.pdf" className="resume-link">
+            <a href="/dsy_resume.pdf" className="resume-link">
               點擊下載我的履歷表
             </a>
           </nav>
